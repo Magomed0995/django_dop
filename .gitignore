@@ -1,0 +1,6 @@
+env/
+__pycache__/
+db.sqlit3
+.DS_Idea
+*.pyc 
+*~
